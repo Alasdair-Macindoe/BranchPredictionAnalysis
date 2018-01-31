@@ -1,0 +1,7 @@
+./experiment.out "../data/arrays-O0.txt"
+./experiment.out "../data/arrays-O2.txt"
+./experiment.out "../data/fft-O0.txt"
+./experiment.out "../data/fft-O2.txt"
+./experiment.out "../data/lesscorrelated-O0.txt"
+./experiment.out "../data/lesscorrelated-O2.txt"
+./experiment.out "../data/gzip.txt"
